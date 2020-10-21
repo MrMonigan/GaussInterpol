@@ -21,9 +21,9 @@ public:
 
 	float myDelta(float* arr, int p, int i);
 
-	float Interpol(float myX, float* arrX, float* arrY);
+	float Interpol(float myX, float h, float* arrX, float* arrY);
 
-	float Q(float x, float* arr, int n, int h);
+	float Q(float x, float* arr, int n, float h);
 
 	int H(float *arr);
 };
