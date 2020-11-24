@@ -1,0 +1,11 @@
+﻿  intTrap.cpp
+C:\Users\mrmon\source\repos\integrirovanie\integrirovanie\intTrap.cpp(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrmon\source\repos\integrirovanie\integrirovanie\intTrap.cpp(19,87): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrmon\source\repos\integrirovanie\integrirovanie\intTrap.cpp(41,25): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrmon\source\repos\integrirovanie\integrirovanie\intTrap.cpp(63,25): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  integrirovanie.cpp
+C:\Users\mrmon\source\repos\integrirovanie\integrirovanie\integrirovanie.cpp(25,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrmon\source\repos\integrirovanie\integrirovanie\integrirovanie.cpp(25,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrmon\source\repos\integrirovanie\integrirovanie\integrirovanie.cpp(25,11): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  integrirovanie.vcxproj -> C:\Users\mrmon\source\repos\integrirovanie\Debug\integrirovanie.exe
